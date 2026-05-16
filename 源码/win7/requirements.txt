@@ -1,0 +1,13 @@
+# 跨网文本传输系统 - 依赖
+# pip install -r requirements.txt
+
+# 发送端 + 接收端通用
+python-docx>=1.1.2       # docx 读写
+Pillow>=10.0.0           # 图片处理
+
+# 发送端
+qrcode>=7.4              # 二维码生成
+
+# 接收端
+opencv-python>=4.8.0     # 摄像头 + QR码检测
+numpy>=1.24.0            # opencv 依赖

@@ -1,0 +1,14 @@
+{
+  "cloud_storage_enabled": false,
+  "minio_endpoint": "192.168.8.131:9000",
+  "minio_access_key": "minioadmin",
+  "minio_secret_key": "minioadmin123",
+  "minio_bucket": "liuyi",
+  "minio_secure": false,
+  "mysql_host": "192.168.8.131",
+  "mysql_port": 3306,
+  "mysql_user": "claude",
+  "mysql_password": "claude123",
+  "mysql_database": "claude",
+  "mysql_table": "file_records"
+}

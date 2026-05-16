@@ -1,0 +1,10 @@
+{
+  "chunk_size": 500,
+  "cycle_interval": 0.5,
+  "qr_box_size": 12,
+  "error_correction": "L",
+  "image_quality": 100,
+  "max_image_size": 800,
+  "scan_dir": "C:/Users/Administrator/Desktop/二维码_已处理",
+  "backup_dir": "C:/Users/Administrator/Desktop\\二维码_已处理"
+}

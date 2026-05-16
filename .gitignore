@@ -1,0 +1,23 @@
+# PyInstaller build artifacts
+源码/**/build/
+源码/**/dist/
+源码/win10/build/
+源码/win10/dist/
+源码/win7/build/
+源码/win7/dist/
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large zip
+二维码安装包.zip
+
+# Dev notes
+*.md
